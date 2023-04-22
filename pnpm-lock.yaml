@@ -66,7 +66,7 @@ importers:
       mississippi: ^4.0.0
       nx: ^14.5.10
       ora: ~5.4.1
-      pnpm: 7.28.0
+      pnpm: 7.32.2
       prettier: ~2.8.0
       rimraf: ^3.0.2
       shelljs: ^0.8.5
@@ -142,7 +142,7 @@ importers:
       meow: 10.1.5
       mississippi: 4.0.0
       ora: 5.4.1
-      pnpm: 7.28.0
+      pnpm: 7.32.2
       prettier: 2.8.7
       rimraf: 3.0.2
       shelljs: 0.8.5
@@ -33697,7 +33697,7 @@ packages:
       pretty-format: 27.5.1
       slash: 3.0.0
       strip-json-comments: 3.1.1
-      ts-node: 10.9.1_j6r65ghnzvzk7vhdh4hyogrm4a
+      ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
     transitivePeerDependencies:
       - bufferutil
       - canvas
@@ -39650,8 +39650,8 @@ packages:
       - typescript
     dev: true
 
-  /pnpm/7.28.0:
-    resolution: {integrity: sha512-nbuY07S2519jEjaV9KLjSFmOwh0b6KIViIdc/RCJkgco8SZa2+ikQQe4N3CfNn5By5BH0dKVbZ8Ox1Mw8wItSA==}
+  /pnpm/7.32.2:
+    resolution: {integrity: sha512-PfosE4b8keWHVrO+z4d+ncIIQK9ypTAdRTrk2ioZ2wDN0I9L+mapzJVldVqsZdy7vakyMtxfknN2cn5wjESbvg==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
