@@ -1,3 +1,4 @@
+Novu
 <div align="center">
   <a href="https://novu.co" target="_blank">
   <picture>
